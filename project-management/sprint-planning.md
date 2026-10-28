@@ -13,7 +13,7 @@ Understand the case study and begin the foundations of the project by identifyin
 - **Start Date:** 12 October 2026
 - **Sprint Review Date:** 28 October 2026
 - **Sprint Deadline:** 29 October 2026
-- **Group:** Group 29
+- **Group:** Group 49
 
 ### 3. Planned Tasks
 
