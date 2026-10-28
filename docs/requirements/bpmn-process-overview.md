@@ -1,4 +1,5 @@
-### 1. Overview of the Collaboration Structure
+#### 2. Major Business Processes
+### 2. Analysis of Major Business Processes and Organisational Responsibilities## 1. Overview of the Collaboration Structure
 
 The BPMN model defines a multi-participant collaboration called `Collaboration_1`, centered around the main participant **"Bristol Regional Food Network"** (`Participant_Main`).
 
