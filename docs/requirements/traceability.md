@@ -1,7 +1,6 @@
 # Traceability Matrix — BRFN Digital Marketplace
 
-**Status:** In progress. Camunda column records planned elements only — no
-licences available to the group yet.
+**Status:** In progress. Camunda column records planned elements only
 
 ## How to read this document
 
