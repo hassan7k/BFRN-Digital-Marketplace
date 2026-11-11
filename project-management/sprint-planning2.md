@@ -64,7 +64,7 @@ evidence.
 
 ### 6. Progress Review
 
-- Completed work: To be updated.
+- Completed work: i* Strategic Dependency (SD) model and i* Strategic Rationale (SR) model completed.
 - Outstanding work: To be updated.
 - Risks encountered: To be updated.
 - **Next actions:**
