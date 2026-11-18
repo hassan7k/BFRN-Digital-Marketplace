@@ -47,9 +47,9 @@ By the end of Sprint 1, the group aims to have:
 
 ### 6. Progress Review
 
-- Completed work: To be updated.
-- Outstanding work: To be updated.
-- Risks encountered: To be updated.
+- Completed work: initial strategic BPMN model, business analysis, identification of two major functionalities, product backlog, Github repo
+- Outstanding work: n/a
+- Risks encountered: n/a
 - **Next actions:**
   - Continue analysing the BRFN case study and document the major business processes.
   - Develop the strategic BPMN model.
