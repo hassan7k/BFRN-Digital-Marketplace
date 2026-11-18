@@ -39,7 +39,7 @@
 
 | Stakeholder goal / dependency | Strategic BPMN task | Operational BPMN task(s) | Planned Camunda element |
 |---|---|---|---|
-| Customer → Marketplace Platform (Safe, traceable food) | Manage quality incident & traceability (`Task_A1`) | Proposed: Log the report and identify the affected product. | Incident report form and incident ID |
+| Customer → Marketplace Platform (Safe, traceable food) | Manage quality incident & traceability (`Task_A1`) | Log the report and identify the affected product. | Incident report form and incident ID |
 | Marketplace Administrator → Marketplace Platform (Traceability records retrievable) | Manage quality incident & traceability (`Task_A1`) | Look up the producer and match affected products or batches to order lines. | Order-line lookup by product or batch |
 | Marketplace Administrator → Producer (Incident information supplied) | Manage quality incident & traceability (`Task_A1`) | Request producer information, assess the evidence and route to closure review or escalation. | Producer response form and risk assessment gateway |
 | Customer → Marketplace Platform (Safe, traceable food) | Manage quality incident & traceability (`Task_A1`) | Suspend the affected product where appropriate after risk is confirmed. | Product suspension service task |
